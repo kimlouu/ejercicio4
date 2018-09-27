@@ -1,0 +1,161 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  max-width:
+}
+.clearfix{
+  clear:both;
+}
+header{
+  background-image: url('images/bg.jpeg');
+  background-position: center left;
+  height:460px;
+  padding-top: 40px;
+}
+h1{
+  max-width:700px;
+  margin: 28px auto;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 50px;
+  text-align: center;
+  padding: 40px 0 0 0;
+}
+h2{
+  text-transform: uppercase;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 70px;
+}
+h3{
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+h4{
+  margin:10px 0 0 0;
+}
+h5{
+  font-size: 13px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 70px 0;
+}
+h6{
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  padding: 30px 0;
+  margin: 0;
+}
+p{
+  font-size: 13px;
+}
+a{
+  text-decoration: none;
+  color: #399be8;
+  font-size: 14px;
+
+}
+.p-section1{
+  max-width: 750px;
+  margin: auto;
+  text-align: center;
+}
+.width{
+  max-width: 1100px;
+  margin: auto;
+}
+#logo{
+  width: 50%;
+}
+#logo a img{
+  width:150px;
+  float:left;
+}
+nav{
+  list-style-type: none;
+  float: right;
+}
+nav li{
+  float:left;
+  padding: 15px;
+}
+nav a{
+  color:#666666;
+  font-size: 14px;
+  text-decoration: none;
+}
+.botones{
+  text-align: center;
+}
+button{
+  padding: 12px 15px ;
+  border-radius: 7px;
+  border: none;
+  margin: 0 7px 10px 15px;
+}
+button a{
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 400;
+  color:white;
+}
+.btn-azul{
+  background-color: #337ab7;
+}
+.btn-verde{
+  background-color: #5cb85c;
+}
+.pheader{
+  color:white;
+  font-weight: 300;
+  max-width: 700px;
+  margin: auto;
+  text-align:center;
+  font-size: 14px;
+}
+section img{
+  max-width: 400px;
+  width:100%;
+  display: block;
+  margin: auto;
+}
+.inscribete{
+  border-top: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  background-color: #fafafa;
+}
+.pref{
+  max-width: 750px;
+  margin:auto;
+}
+.prefooter1{
+  margin: 70px auto;
+  float: left;
+  width: 300px;
+}
+.prefooter2{
+  margin: 70px auto;
+  float: left;
+}
+.p-prefooter{
+  margin:5px 0;
+}
+input{
+  border-radius: 5px;
+  border: 1px solid #666666;
+  padding: 10px;
+  float: left;
+}
+input[type=submit] {
+  background-color: white;
+  color:black;
+  float: left;
+  margin-left: 5px;
+}
+footer{
+  background-color: black;
+}
